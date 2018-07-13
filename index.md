@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/uploads/2018/02/25/car.jpg"
 layout: landing-page
-heading: Belkirk College
+heading: Matt's College
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
